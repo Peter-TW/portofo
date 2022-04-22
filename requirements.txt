@@ -22,7 +22,7 @@ pre-commit==2.1.1
 py==1.8.1
 py-translate==1.0.3
 pyparsing==2.4.6
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-docx==0.8.10
 PyYAML==5.3
 requests==2.23.0
